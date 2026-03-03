@@ -89,6 +89,13 @@ const STUDY_DATA = {
     {
       id: "ch1",
       title: "Chapter 1 — Internet Basics",
+      learningObjectives: [
+        "Understand the layers and structure of the Internet",
+        "Learn how data travels between computers using TCP/IP",
+        "Master IP addressing and DNS",
+        "Understand HTTP requests and responses",
+        "Learn about internet infrastructure and security concepts"
+      ],
       topics: [
         {
           id: "tcpip",
@@ -357,6 +364,13 @@ const STUDY_DATA = {
     {
       id: "ch2",
       title: "Chapter 2 — HTML Basics",
+      learningObjectives: [
+        "Understand HTML structure and semantics",
+        "Learn the purpose of common HTML elements",
+        "Master forms and accessibility features",
+        "Understand HTML5 features and best practices",
+        "Learn how to write clean, meaningful markup"
+      ],
       topics: [
         {
           id: "html",
@@ -584,6 +598,13 @@ const STUDY_DATA = {
     {
       id: "ch3",
       title: "Chapter 3 — CSS Basics",
+      learningObjectives: [
+        "Master selectors, specificity, and the cascade",
+        "Understand the box model deeply",
+        "Learn Flexbox and Grid for modern layouts",
+        "Master responsive design with media queries",
+        "Understand positioning, transforms, and animations"
+      ],
       topics: [
         {
           id: "css",
@@ -810,6 +831,13 @@ const STUDY_DATA = {
     {
       id: "ch4",
       title: "Chapter 4 — JavaScript Basics",
+      learningObjectives: [
+        "Master variables, data types, and operators",
+        "Understand functions, scope, and closures",
+        "Learn DOM manipulation and events",
+        "Master asynchronous programming (promises, async/await)",
+        "Understand modern ES6+ features and best practices"
+      ],
       topics: [
         {
           id: "js",
